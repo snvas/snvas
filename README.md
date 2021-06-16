@@ -1,5 +1,3 @@
-### Hi there 👋
-
 <!--
 **snvas/snvas** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -18,8 +16,6 @@ Here are some ideas to get you started:
 
 <h1 align="center">Hi 👋, I'm Soraia Novaes</h1>
 <h3 align="center">A passionate leaner from Brazil</h3>
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=snvas&label=Profile%20views&color=0e75b6&style=flat" alt="snvas" /> </p>
 
 <p align="left"> <a href="https://twitter.com/edtecnova" target="blank"><img src="https://img.shields.io/twitter/follow/edtecnova?logo=twitter&style=for-the-badge" alt="edtecnova" /></a> </p>
 
@@ -53,5 +49,7 @@ Here are some ideas to get you started:
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=snvas&show_icons=true&locale=en&layout=compact" alt="snvas" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=snvas&show_icons=true&locale=en" alt="snvas" /></p>
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=snvas&label=Profile%20views&color=0e75b6&style=flat" alt="snvas" /> </p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=snvas&" alt="snvas" /></p>
