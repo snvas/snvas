@@ -7,13 +7,13 @@
 
 - 🤝 I’m looking for help with [Desafio do Código](desafiodocodigo.com.br)
 
-- 👨‍💻 All of my projects are available at [http://soraianovaes.com.br/](http://soraianovaes.com.br/)
+- 👨‍💻 All of my projects are available at [soraianovaes.com.br/](http://soraianovaes.com.br/)
 
-- 📝 I regularly write articles on [https://codecamp.com.br/](https://codecamp.com.br/)
+- 📝 I regularly write articles on [codecamp.com.br/](https://codecamp.com.br/)
 
 - 📫 How to reach me **soraia@empreendelab.com.br**
 
-- 📄 Know about my experiences [https://www.linkedin.com/in/soraianovaes/](https://www.linkedin.com/in/soraianovaes/)
+- 📄 Know about my experiences [linkedin.com/in/soraianovaes/](https://www.linkedin.com/in/soraianovaes/)
 
 - ⚡ Fun fact **I had lunch at Google and dinner at Facebook in the same day!**
 
