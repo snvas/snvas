@@ -7,22 +7,22 @@
 
 - 🤝 I’m looking for help with [Desafio do Código](desafiodocodigo.com.br)
 
-- 👨‍💻 All of my projects are available at [soraianovaes.com.br/](http://soraianovaes.com.br/)
+- 👨‍💻 All of my projects are available at [soraianovaes.com.br](http://soraianovaes.com.br/)
 
-- 📝 I regularly write articles on [codecamp.com.br/](https://codecamp.com.br/)
+- 📝 I regularly write articles on [codecamp.com.br](https://codecamp.com.br/)
 
 - 📫 How to reach me **soraia@empreendelab.com.br**
 
-- 📄 Know about my experiences [linkedin.com/in/soraianovaes/](https://www.linkedin.com/in/soraianovaes/)
+- 📄 Know about my experiences [linkedin.com/in/soraianovaes](https://www.linkedin.com/in/soraianovaes/)
 
 - ⚡ Fun fact **I had lunch at Google and dinner at Facebook in the same day!**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/edtecnova" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="edtecnova" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/soraianovaes" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="soraianovaes" height="30" width="40" /></a>
 <a href="https://fb.com/soraianovaes" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="soraianovaes" height="30" width="40" /></a>
 <a href="https://instagram.com/snvas" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="snvas" height="30" width="40" /></a>
+<a href="https://twitter.com/edtecnova" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="edtecnova" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
