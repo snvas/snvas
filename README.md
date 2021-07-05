@@ -36,6 +36,9 @@
 ![](https://game.42sp.org.br/static/assets/achievements/libfte.png)
 ![](https://game.42sp.org.br/static/assets/achievements/get_next_linem.png)
 
+![snovaes's 42 stats](https://badge42.herokuapp.com/api/stats/snovaes?privacyEmail=true&privacyName=true&darkmode=true&cursus=42cursus)
+
+
 ## 💻 GitHub Stats 💻
 ![Soraia's GitHub stats](https://github-readme-stats.vercel.app/api?username=snvas&show_icons=true&theme=tokyonight)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=snvas&layout=compact&theme=tokyonight)](https://github.com/snvas)
