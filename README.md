@@ -37,6 +37,6 @@
 ![](https://game.42sp.org.br/static/assets/achievements/get_next_linem.png)
 
 ## 💻 GitHub Stats 💻
-![Soraia's GitHub stats](https://github-readme-stats.vercel.app/api?username=snvas&show_icons=true&theme=radical)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=snvas&layout=compact&theme=radical)](https://github.com/snvas)
+![Soraia's GitHub stats](https://github-readme-stats.vercel.app/api?username=snvas&show_icons=true&theme=tokyonight)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=snvas&layout=compact&theme=tokyonight)](https://github.com/snvas)
 
