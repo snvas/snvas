@@ -17,7 +17,7 @@
 
 *  📄 Know about my experiences [linkedin.com/in/soraianovaes](https://www.linkedin.com/in/soraianovaes/)
 
-*  👩🏽‍🏫 I am teaching on Udemy since 2018 [udemy.com/user/soraianovaes/](https://www.udemy.com/user/soraianovaes/)
+*  👩🏽‍🏫 I am teaching on Udemy since 2017 [udemy.com/user/soraianovaes/](https://www.udemy.com/user/soraianovaes/)
 
 *  ⚡ Fun fact **I had lunch at Google and dinner at Facebook in the same day!**
 
