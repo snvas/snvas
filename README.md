@@ -45,5 +45,5 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=snvas&layout=compact&theme=tokyonight&show_icons=true)](https://github.com/snvas)
 
 
-![Snake animation](https://github.com/snvas/snvas/images/github-user-contribution.svg)
+![Snake animation](https://github.com/snvas/snvas/blob/main/images/github-user-contribution.svg)
   
