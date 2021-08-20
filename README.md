@@ -36,6 +36,9 @@
 ![](https://game.42sp.org.br/static/assets/achievements/libfte.png)
 ![](https://game.42sp.org.br/static/assets/achievements/get_next_linem.png)
 ![](https://game.42sp.org.br/static/assets/achievements/ft_printfm.png)
+![](https://game.42sp.org.br/static/assets/achievements/born2berootm.png)
+
+
 
 ![snovaes's 42 stats](https://badge42.herokuapp.com/api/stats/snovaes?privacyEmail=true&privacyName=true&darkmode=true&cursus=42cursus)
 
