@@ -34,10 +34,10 @@
 
 ## 💻 42 Projects 💻
 ![](https://game.42sp.org.br/static/assets/achievements/libfte.png)
-![](https://game.42sp.org.br/static/assets/achievements/get_next_linem.png)
-![](https://game.42sp.org.br/static/assets/achievements/ft_printfm.png)
-![](https://game.42sp.org.br/static/assets/achievements/born2berootm.png)
-![](https://game.42sp.org.br/static/assets/achievements/so_longm.png)
+![](https://game.42sp.org.br/static/assets/achievements/get_next_linee.png)
+![](https://game.42sp.org.br/static/assets/achievements/ft_printfe.png)
+![](https://game.42sp.org.br/static/assets/achievements/born2beroote.png)
+![](https://game.42sp.org.br/static/assets/achievements/so_longe.png)
 
 
 
