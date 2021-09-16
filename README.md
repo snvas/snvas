@@ -37,7 +37,7 @@
 ![](https://game.42sp.org.br/static/assets/achievements/get_next_linem.png)
 ![](https://game.42sp.org.br/static/assets/achievements/ft_printfm.png)
 ![](https://game.42sp.org.br/static/assets/achievements/born2berootm.png)
-![](https://game.42sp.org.br/static/assets/achievements/solongm.png)
+![](https://game.42sp.org.br/static/assets/achievements/so_longm.png)
 
 
 
