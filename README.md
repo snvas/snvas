@@ -13,7 +13,7 @@
 
 *  👨‍💻 All of my projects are available at [soraianovaes.com.br](http://soraianovaes.com.br/)
 
-*  📝 I regularly write articles on [codecamp.com.br](https://codecamp.com.br/)
+*  📝 I write articles on [codecamp.com.br](https://codecamp.com.br/)
 
 *  📫 How to reach me **soraia@empreendelab.com.br**
 
