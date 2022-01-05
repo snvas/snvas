@@ -7,7 +7,7 @@
 
 *  👩‍🚀 Cadet at [42 São Paulo](https://www.42sp.org.br/)
  
-*  🌱 I’m currently learning C, Unix and computer science
+*  🌱 I’m currently learning C, Unix and Computer Science
 
 *  🤝 I’m looking for help with [Desafio do Código](desafiodocodigo.com.br)
 
@@ -42,6 +42,7 @@
 [![Born2beroot](https://game.42sp.org.br/static/assets/achievements/born2beroote.png)](https://soraianovaes.com.br)
 [![So_long](https://game.42sp.org.br/static/assets/achievements/so_longe.png)](https://github.com/snvas/42course_so_long)
 [![Pipex](https://game.42sp.org.br/static/assets/achievements/pipexe.png)](https://github.com/snvas/42course_pipex)
+[![Push Swap](https://game.42sp.org.br/static/assets/achievements/push_swape.png)](https://github.com/snvas/42course_push_swap)
 
 ![snovaes's 42 stats](https://badge42.herokuapp.com/api/stats/snovaes?privacyEmail=true&privacyName=true&darkmode=true&cursus=42cursus)
 
