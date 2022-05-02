@@ -45,7 +45,6 @@
 [![Push Swap](https://game.42sp.org.br/static/assets/achievements/push_swape.png)](https://github.com/snvas/42course_push_swap)
 [![Minishell](https://game.42sp.org.br/static/assets/achievements/minishelle.png)](https://github.com/HcDuller/42_minishell)
 [![Philosopher](https://game.42sp.org.br/static/assets/achievements/philosopherse.png)](https://github.com/snvas/42course_philosophers)
-![snovaes's 42 stats](https://badge42.herokuapp.com/api/stats/snovaes?privacyEmail=true&privacyName=true&darkmode=true&cursus=42cursus)
 
 
 ## 💻 GitHub Stats 💻
