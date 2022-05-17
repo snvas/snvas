@@ -45,7 +45,7 @@
 [![Push Swap](https://game.42sp.org.br/static/assets/achievements/push_swape.png)](https://github.com/snvas/42course_push_swap)
 [![Minishell](https://game.42sp.org.br/static/assets/achievements/minishelle.png)](https://github.com/HcDuller/42_minishell)
 [![Philosopher](https://game.42sp.org.br/static/assets/achievements/philosopherse.png)](https://github.com/snvas/42course_philosophers)
-[![NetPratice](https://game.42sp.org.br/static/assets/achievements/netpraticee.png)](https://github.com/snvas/netpraticee)
+[![NetPratice](https://game.42sp.org.br/static/assets/achievements/netpracticee.png)](https://github.com/snvas/netpraticee)
 
 ## 💻 GitHub Stats 💻
 ![Soraia's GitHub stats](https://github-readme-stats.vercel.app/api?username=snvas&show_icons=true&theme=tokyonight)
