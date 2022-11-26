@@ -46,6 +46,8 @@
 [![Minishell](https://game.42sp.org.br/static/assets/achievements/minishelle.png)](https://github.com/HcDuller/42_minishell)
 [![Philosopher](https://game.42sp.org.br/static/assets/achievements/philosopherse.png)](https://github.com/snvas/42course_philosophers)
 [![NetPratice](https://game.42sp.org.br/static/assets/achievements/netpracticee.png)](https://github.com/snvas/netpraticee)
+[![Cub3D](https://game.42sp.org.br/static/assets/achievements/cub3de.png)](https://github.com/hde-oliv-42/cub3D)
+
 
 ## 💻 GitHub Stats 💻
 ![Soraia's GitHub stats](https://github-readme-stats.vercel.app/api?username=snvas&show_icons=true&theme=tokyonight)
