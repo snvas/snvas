@@ -15,13 +15,13 @@
 
 *  📝 I write articles on [codecamp.com.br](https://codecamp.com.br/)
 
-*  📫 How to reach me **soraia@empreendelab.com.br**
+*  📫 How to reach me [mailto:soraia@empreendelab.com.br](soraia@empreendelab.com.br)
 
 *  📄 Know about my experiences [linkedin.com/in/soraianovaes](https://www.linkedin.com/in/soraianovaes/)
 
 *  👩🏽‍🏫 I am teaching on Udemy since 2017 [udemy.com/user/soraianovaes/](https://www.udemy.com/user/soraianovaes/)
 
-*  ⚡ Curiosity: **[I had lunch on Google and had dinner on Facebook the same day](https://my-trips.soraianovaes.com.br/place/google-california-usa)!!**
+*  ⚡ Curiosity: **[I had lunch on Google and had dinner on Facebook the same day](https://photos.app.goo.gl/Y4BZrCzhfAZFpJWx6)!!**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
