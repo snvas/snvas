@@ -3,15 +3,15 @@
 
 ![Snake animation](https://github.com/snvas/snvas/blob/output/github-contribution-grid-snake.svg)
 
-*  🔭 I’m currently working on [EmpreendeLab](empreendelab.com.br)
+*  🔭 I’m currently working on [EmpreendeLab](https://empreendelab.com.br)
 
 *  👩‍🚀 Cadet at [42 São Paulo](https://www.42sp.org.br/)
  
 *  🌱 I’m currently learning C, Unix and Computer Science
 
-*  🤝 I’m looking for help with [Desafio do Código](desafiodocodigo.com.br)
+*  🤝 I’m looking for help with [Desafio do Código](https://desafiodocodigo.com.br)
 
-*  👨‍💻 All of my projects are available at [soraianovaes.com.br](http://soraianovaes.com.br/)
+*  👨‍💻 All of my projects are available at [soraianovaes.com.br](https://soraianovaes.com.br/)
 
 *  📝 I write articles on [codecamp.com.br](https://codecamp.com.br/)
 
