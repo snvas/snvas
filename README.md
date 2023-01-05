@@ -21,7 +21,7 @@
 
 *  👩🏽‍🏫 I am teaching on Udemy since 2017 [udemy.com/user/soraianovaes/](https://www.udemy.com/user/soraianovaes/)
 
-*  ⚡ Curiosity: **[I had lunch on Google and had dinner on Facebook the same day](https://photos.app.goo.gl/Y4BZrCzhfAZFpJWx6)!!**
+*  ⚡ Curiosity: **[I had lunch at Google and dinner at Facebook in the same day](https://photos.app.goo.gl/Y4BZrCzhfAZFpJWx6)!!**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
