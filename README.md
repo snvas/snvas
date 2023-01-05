@@ -15,7 +15,7 @@
 
 *  📝 I write articles on [codecamp.com.br](https://codecamp.com.br/)
 
-*  📫 How to reach me [mailto:soraia@empreendelab.com.br](soraia@empreendelab.com.br)
+*  📫 How to reach me [soraia@empreendelab.com.br](mailto:soraia@empreendelab.com.br)
 
 *  📄 Know about my experiences [linkedin.com/in/soraianovaes](https://www.linkedin.com/in/soraianovaes/)
 
