@@ -49,6 +49,7 @@
 [![NetPratice](https://game.42sp.org.br/static/assets/achievements/netpracticee.png)](https://github.com/snvas/netpraticee)
 [![Cub3D](https://game.42sp.org.br/static/assets/achievements/cub3de.png)](https://github.com/hde-oliv-42/cub3D)
 [![CPP](https://game.42sp.org.br/static/assets/achievements/cppe.png)](https://github.com/snvas/cpp-module00)
+[![Ft_containers](https://game.42sp.org.br/static/assets/achievements/ft_containersm.png)](https://github.com/snvas/ft_containers_entrega)
 
 
 ## 💻 GitHub Stats 💻
