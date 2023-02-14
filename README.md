@@ -37,10 +37,10 @@
 <a href="https://cplusplus.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a>  <a href="https://getbootstrap.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a>  <a href="https://www.w3.org/html/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a>  <a href="https://jekyllrb.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/jekyllrb/jekyllrb-icon.svg" alt="jekyll" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.php.net" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> </p>
 
 ## 💻 42 Projects 💻
-[![Libft](https://game.42sp.org.br/static/assets/achievements/libfte.png)](https://github.com/snvas/42course_libft)
-[![Get_next_line](https://game.42sp.org.br/static/assets/achievements/get_next_linee.png)](https://github.com/snvas/42course_get_next_line)
-[![Printf](https://game.42sp.org.br/static/assets/achievements/ft_printfe.png)](https://github.com/snvas/42course_printf)
-[![Born2beroot](https://game.42sp.org.br/static/assets/achievements/born2beroote.png)](https://soraianovaes.com.br)
+[![Libft](https://game.42sp.org.br/static/assets/achievements/libftm.png)](https://github.com/snvas/42course_libft)
+[![Get_next_line](https://game.42sp.org.br/static/assets/achievements/get_next_linem.png)](https://github.com/snvas/42course_get_next_line)
+[![Printf](https://game.42sp.org.br/static/assets/achievements/ft_printfm.png)](https://github.com/snvas/42course_printf)
+[![Born2beroot](https://game.42sp.org.br/static/assets/achievements/born2berootm.png)](https://soraianovaes.com.br)
 [![So_long](https://game.42sp.org.br/static/assets/achievements/so_longe.png)](https://github.com/snvas/42course_so_long)
 [![Pipex](https://game.42sp.org.br/static/assets/achievements/pipexe.png)](https://github.com/snvas/42course_pipex)
 [![Push Swap](https://game.42sp.org.br/static/assets/achievements/push_swape.png)](https://github.com/snvas/42course_push_swap)
