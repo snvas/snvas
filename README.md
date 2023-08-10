@@ -1,6 +1,8 @@
 <h1 align="center">Hi 👋, I'm Soraia Novaes</h1>
 <h3 align="center">A passionate learner from Brazil</h3>
 
+![Snake animation](https://github.com/snvas/snvas/blob/output/github-contribution-grid-snake.svg)
+
 *  🔭 I’m currently working on [EmpreendeLab](https://empreendelab.com.br)
 
 *  👩‍🚀 Cadet at [42 São Paulo](https://www.42sp.org.br/)
