@@ -53,7 +53,9 @@
 [![Cub3D](https://game.42sp.org.br/static/assets/achievements/cub3de.png)](https://github.com/hde-oliv-42/cub3D)
 [![CPP](https://game.42sp.org.br/static/assets/achievements/cppe.png)](https://github.com/snvas/cpp-module00)
 [![Ft_containers](https://game.42sp.org.br/static/assets/achievements/ft_containersm.png)](https://github.com/snvas/ft_containers_entrega)
-[![Inception](https://game.42sp.org.br/static/assets/achievements/inceptionm.png)](https://github.com/snvas/inception)
+[![Inception](https://game.42sp.org.br/static/assets/achievements/inceptionm.png)](https://github.com/snvas/42course_inception)
+[![Webserv](https://game.42sp.org.br/static/assets/achievements/webservm.png)](https://github.com/snvas/42course_webserver)
+
 
 ## 💻 GitHub Stats 💻
 ![Soraia's GitHub stats](https://github-readme-stats.vercel.app/api?username=snvas&show_icons=true&theme=tokyonight)
