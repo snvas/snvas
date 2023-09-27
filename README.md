@@ -54,7 +54,7 @@
 [![CPP](https://game.42sp.org.br/static/assets/achievements/cppe.png)](https://github.com/snvas/cpp-module00)
 [![Ft_containers](https://game.42sp.org.br/static/assets/achievements/ft_containersm.png)](https://github.com/snvas/ft_containers_entrega)
 [![Inception](https://game.42sp.org.br/static/assets/achievements/inceptionm.png)](https://github.com/snvas/42course_inception)
-[![Webserv](https://game.42sp.org.br/static/assets/achievements/webservm.png)](https://github.com/snvas/42course_webserver)
+[![Webserv](https://game.42sp.org.br/static/assets/achievements/webserve.png)](https://github.com/snvas/42course_webserver)
 
 
 ## 💻 GitHub Stats 💻
