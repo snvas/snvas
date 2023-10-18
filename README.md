@@ -12,7 +12,9 @@
  
 *  🌱 I’m currently learning C, Unix and Computer Science
 
-*  🤝 I’m looking for help with [Desafio do Código](https://desafiodocodigo.com.br)
+*  🤝 I’m looking for help with [Criador de Aulas](https://criadordeaulas.com.br)
+
+*  🤝 I’m a proud co-founder of [Desafio do Código](https://desafiodocodigo.com.br)
 
 *  👨‍💻 All of my projects are available at [soraianovaes.com.br](https://soraianovaes.com.br/)
 
