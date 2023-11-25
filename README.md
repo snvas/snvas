@@ -58,8 +58,11 @@
 [![Inception](https://game.42sp.org.br/static/assets/achievements/inceptionm.png)](https://github.com/snvas/inception)
 [![Webserv](https://game.42sp.org.br/static/assets/achievements/webserve.png)](https://github.com/snvas/42course_webserver)
 [![Ft_Transcendence](https://game.42sp.org.br/static/assets/achievements/ft_transcendencee.png)](https://github.com/snvas/42course_fttranscendence)
+<div align="center">
 
-[![HumanCoder](https://game.42sp.org.br/static/assets/achievements/common_coree.png)]
+![HumanCoder](https://game.42sp.org.br/static/assets/achievements/common_coree.png)
+
+</div>
 
 
 ## 💻 GitHub Stats 💻
