@@ -1,5 +1,10 @@
 <h1 align="center">Hi 👋, I'm Soraia Novaes</h1>
 <h3 align="center">A passionate learner from Brazil</h3>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/snvas/snvas/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/snvas/snvas/output/github-contribution-grid-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/snvas/snvas/output/github-contribution-grid-snake.svg">
+</picture>
 
 *  🔭 I’m currently working on [EmpreendeLab](https://empreendelab.com.br)
 
@@ -7,7 +12,9 @@
  
 *  🌱 I’m currently learning C, Unix and Computer Science
 
-*  🤝 I’m looking for help with [Desafio do Código](https://desafiodocodigo.com.br)
+*  🤝 I’m looking for help with [Criador de Aulas](https://criadordeaulas.com.br)
+
+*  🤝 I’m a proud co-founder of [Desafio do Código](https://desafiodocodigo.com.br)
 
 *  👨‍💻 All of my projects are available at [soraianovaes.com.br](https://soraianovaes.com.br/)
 
@@ -49,6 +56,7 @@
 [![CPP](https://game.42sp.org.br/static/assets/achievements/cppe.png)](https://github.com/snvas/cpp-module00)
 [![Ft_containers](https://game.42sp.org.br/static/assets/achievements/ft_containersm.png)](https://github.com/snvas/ft_containers_entrega)
 [![Inception](https://game.42sp.org.br/static/assets/achievements/inceptionm.png)](https://github.com/snvas/inception)
+[![Webserv](https://game.42sp.org.br/static/assets/achievements/webserve.png)](https://github.com/snvas/42course_webserver)
 [![Ft_Transcendence](https://game.42sp.org.br/static/assets/achievements/ft_transcendencee.png)](https://github.com/snvas/42course_fttranscendence)
 
 [![HumanCoder](https://game.42sp.org.br/static/assets/achievements/common_coree.png)]
@@ -58,3 +66,4 @@
 ![Soraia's GitHub stats](https://github-readme-stats.vercel.app/api?username=snvas&show_icons=true&theme=tokyonight)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=snvas&layout=compact&theme=tokyonight&show_icons=true)](https://github.com/snvas)
   
+
