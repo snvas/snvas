@@ -49,6 +49,9 @@
 [![CPP](https://game.42sp.org.br/static/assets/achievements/cppe.png)](https://github.com/snvas/cpp-module00)
 [![Ft_containers](https://game.42sp.org.br/static/assets/achievements/ft_containersm.png)](https://github.com/snvas/ft_containers_entrega)
 [![Inception](https://game.42sp.org.br/static/assets/achievements/inceptionm.png)](https://github.com/snvas/inception)
+[![Ft_Transcendence](https://game.42sp.org.br/static/assets/achievements/ft_transcendencee.png)](https://github.com/snvas/42course_fttranscendence)
+
+[![HumanCoder](https://game.42sp.org.br/static/assets/achievements/common_coree.png)]
 
 
 ## 💻 GitHub Stats 💻
