@@ -59,7 +59,7 @@
 <div style="margin: auto; padding: 10px" align="center">
 
 [![Philosopher](https://game.42sp.org.br/static/assets/achievements/philosopherse.png)](https://github.com/snvas/42course_philosophers)
-[![NetPratice](https://game.42sp.org.br/static/assets/achievements/netpracticee.png)](https://github.com/snvas/netpraticee)
+[![NetPratice](https://game.42sp.org.br/static/assets/achievements/netpracticee.png)](https://github.com/snvas/42course_netpratice)
 [![Cub3D](https://game.42sp.org.br/static/assets/achievements/cub3de.png)](https://github.com/hde-oliv-42/cub3D)
 [![CPP](https://game.42sp.org.br/static/assets/achievements/cppe.png)](https://github.com/snvas/cpp-module00)
 </div>
