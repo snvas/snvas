@@ -44,36 +44,36 @@
 ## 💻 42 Projects 💻
 <div style="margin: auto; padding: 10px" align="center">
 
-[![Libft](https://game.42sp.org.br/static/assets/achievements/libftm.png)](https://github.com/snvas/42course_libft)
-[![Get_next_line](https://game.42sp.org.br/static/assets/achievements/get_next_linem.png)](https://github.com/snvas/42course_get_next_line)
-[![Printf](https://game.42sp.org.br/static/assets/achievements/ft_printfm.png)](https://github.com/snvas/42course_printf)
-[![Born2beroot](https://game.42sp.org.br/static/assets/achievements/born2berootm.png)](https://soraianovaes.com.br)
+[![Libft](https://github.com/ayogun/42-project-badges/blob/main/badges/libftm.png)](https://github.com/snvas/42course_libft)
+[![Get_next_line](https://github.com/ayogun/42-project-badges/blob/main/badges/get_next_linem.png)](https://github.com/snvas/42course_get_next_line)
+[![Printf](https://github.com/ayogun/42-project-badges/blob/main/badges/ft_printfm.png)](https://github.com/snvas/42course_printf)
+[![Born2beroot](https://github.com/ayogun/42-project-badges/blob/main/badges/born2berootm.png)](https://soraianovaes.com.br)
 </div>
 <div style="margin: auto; padding: 10px" align="center">
 
-[![So_long](https://game.42sp.org.br/static/assets/achievements/so_longe.png)](https://github.com/snvas/42course_so_long)
-[![Pipex](https://game.42sp.org.br/static/assets/achievements/pipexe.png)](https://github.com/snvas/42course_pipex)
-[![Push Swap](https://game.42sp.org.br/static/assets/achievements/push_swape.png)](https://github.com/snvas/42course_push_swap)
-[![Minishell](https://game.42sp.org.br/static/assets/achievements/minishelle.png)](https://github.com/HcDuller/42_minishell)
+[![So_long](https://github.com/ayogun/42-project-badges/blob/main/badges/so_longe.png)](https://github.com/snvas/42course_so_long)
+[![Pipex](https://github.com/ayogun/42-project-badges/blob/main/badges/pipexe.png)](https://github.com/snvas/42course_pipex)
+[![Push Swap](https://github.com/ayogun/42-project-badges/blob/main/badges/push_swape.png)](https://github.com/snvas/42course_push_swap)
+[![Minishell](https://github.com/ayogun/42-project-badges/blob/main/badges/minishelle.png)](https://github.com/HcDuller/42_minishell)
 </div>
 <div style="margin: auto; padding: 10px" align="center">
 
-[![Philosopher](https://game.42sp.org.br/static/assets/achievements/philosopherse.png)](https://github.com/snvas/42course_philosophers)
-[![NetPratice](https://game.42sp.org.br/static/assets/achievements/netpracticee.png)](https://github.com/snvas/42course_netpratice)
-[![Cub3D](https://game.42sp.org.br/static/assets/achievements/cub3de.png)](https://github.com/hde-oliv-42/cub3D)
-[![CPP](https://game.42sp.org.br/static/assets/achievements/cppe.png)](https://github.com/snvas/cpp-module00)
+[![Philosopher](https://github.com/ayogun/42-project-badges/blob/main/badges/philosopherse.png)](https://github.com/snvas/42course_philosophers)
+[![NetPratice](https://github.com/ayogun/42-project-badges/blob/main/badges/netpracticee.png)](https://github.com/snvas/42course_netpratice)
+[![Cub3D](https://github.com/ayogun/42-project-badges/blob/main/badges/cub3de.png)](https://github.com/hde-oliv-42/cub3D)
+[![CPP](https://github.com/ayogun/42-project-badges/blob/main/badges/cppe.png)](https://github.com/snvas/cpp-module00)
 </div>
 <div style="margin: auto; padding: 10px" align="center">
 
-[![Ft_containers](https://game.42sp.org.br/static/assets/achievements/ft_containersm.png)](https://github.com/snvas/ft_containers_entrega)
-[![Inception](https://game.42sp.org.br/static/assets/achievements/inceptionm.png)](https://github.com/snvas/inception)
-[![Webserv](https://game.42sp.org.br/static/assets/achievements/webserve.png)](https://github.com/snvas/42course_webserver)
-[![Ft_Transcendence](https://game.42sp.org.br/static/assets/achievements/ft_transcendencee.png)](https://github.com/snvas/42course_fttranscendence)
+[![Ft_containers](https://github.com/ayogun/42-project-badges/blob/main/badges/ft_containersm.png)](https://github.com/snvas/ft_containers_entrega)
+[![Inception](https://github.com/ayogun/42-project-badges/blob/main/badges/inceptionm.png)](https://github.com/snvas/inception)
+[![Webserv](https://github.com/ayogun/42-project-badges/blob/main/badges/webserve.png)](https://github.com/snvas/42course_webserver)
+[![Ft_Transcendence](https://github.com/ayogun/42-project-badges/blob/main/badges/ft_transcendencee.png)](https://github.com/snvas/42course_fttranscendence)
 </div>
 
 <div align="center">
 
-[![HumanCoder](https://game.42sp.org.br/static/assets/achievements/common_coree.png)](https://github.com/snvas)
+[![HumanCoder](https://github.com/ayogun/42-project-badges/blob/main/badges/common_coree.png)](https://github.com/snvas)
 
 </div>
 
