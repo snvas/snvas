@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Soraia Novaes</h1>
-<h3 align="center">A passionate learner from Brazil</h3>
+<h3 align="center">A passionate lifelong learner from Brazil.</h3>
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/snvas/snvas/output/github-contribution-grid-snake-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/snvas/snvas/output/github-contribution-grid-snake.svg">
