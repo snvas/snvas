@@ -6,27 +6,27 @@
   <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/snvas/snvas/output/github-contribution-grid-snake.svg">
 </picture>
 
-*  🔭 I’m currently working on [EmpreendeLab](https://empreendelab.com.br)
+*  🔭 Currently working at [EmpreendeLab](https://empreendelab.com.br) and [Scooto](https://scooto.co)
 
-*  👩‍🚀 Cadet at [42 São Paulo](https://www.42sp.org.br/)
+*  👩‍🚀 Graduated in Software Engineering from [42 São Paulo](https://www.42sp.org.br/)
  
-*  🌱 I’m currently learning C, Unix and Computer Science
+*  🌱 Currently learning Python, Svelte, and Crew.ai
 
-*  🤝 I’m looking for help with [Criador de Aulas](https://criadordeaulas.com.br)
+*  🤝 Looking for collaborators on [Criador de Aulas](https://criadordeaulas.com.br)
 
-*  🤝 I’m a proud co-founder of [Desafio do Código](https://desafiodocodigo.com.br)
+*  🤝 Proud co-founder of [Desafio do Código](https://desafiodocodigo.com.br)
 
 *  👨‍💻 All of my projects are available at [soraianovaes.com.br](https://soraianovaes.com.br/)
 
-*  📝 I write articles on [codecamp.com.br](https://codecamp.com.br/)
+*  📝 I write articles on my blog [codecamp.com.br](https://codecamp.com.br/)
 
-*  📫 How to reach me [soraia@empreendelab.com.br](mailto:soraia@empreendelab.com.br)
+*  📫 Reach me at [soraia@empreendelab.com.br](mailto:soraia@empreendelab.com.br)
 
-*  📄 Know about my experiences [linkedin.com/in/soraianovaes](https://www.linkedin.com/in/soraianovaes/)
+*  📄 Learn more about my experience: [linkedin.com/in/soraianovaes](https://www.linkedin.com/in/soraianovaes/)
 
-*  👩🏽‍🏫 I am teaching on Udemy since 2017 [udemy.com/user/soraianovaes/](https://www.udemy.com/user/soraianovaes/)
+*  👩🏽‍🏫 Teaching on Udemy since 2017 [udemy.com/user/soraianovaes/](https://www.udemy.com/user/soraianovaes/)
 
-*  ⚡ Curiosity: **[I had lunch at Google and dinner at Facebook in the same day](https://photos.app.goo.gl/Y4BZrCzhfAZFpJWx6)!!**
+*  ⚡ Fun fact: **[I had lunch at Google and dinner at Facebook on the same day](https://photos.app.goo.gl/Y4BZrCzhfAZFpJWx6)!!**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -34,6 +34,7 @@
  <a href="https://fb.com/soraianovaes" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="soraianovaes" height="30" width="40" /></a>
 <a href="https://instagram.com/snvas" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="snvas" height="30" width="40" /></a>
  <a href="https://www.youtube.com/c/soraianovaes" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="soraianovaes" height="30" width="40" /></a>
+ <a href="https://www.tiktok.com/@soraianovaesempreendelab"  target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/a/a6/Tiktok_icon.svg" alt="soraianovaes" height="30" width="40" /></a>
 <a href="https://twitter.com/edtecnova" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="edtecnova" height="30" width="40" /></a>
 </p>
 
