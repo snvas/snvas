@@ -6,17 +6,17 @@
   <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/snvas/snvas/output/github-contribution-grid-snake.svg">
 </picture>
 
-*  🔭 Currently working at [EmpreendeLab](https://empreendelab.com.br) and [Scooto](https://scooto.co)
+*  🔭 Currently working at [EmpreendeLab](https://empreendelab.com.br)
 
 *  👩‍🚀 Graduated in Software Engineering from [42 São Paulo](https://www.42sp.org.br/)
  
-*  🌱 Currently learning Python, Svelte, and Crew.ai
+*  🌱 Currently learning Python, Svelte, and AI Agents
 
 *  🤝 Looking for collaborators on [Criador de Aulas](https://criadordeaulas.com.br)
 
 *  🤝 Proud co-founder of [Desafio do Código](https://desafiodocodigo.com.br)
 
-*  👨‍💻 All of my projects are available at [soraianovaes.com.br](https://soraianovaes.com.br/)
+*  👨‍💻 All of my projects are available at [soraianovaes.com.br](https://next.soraianovaes.com.br/)
 
 *  📝 I write articles on my blog [codecamp.com.br](https://codecamp.com.br/)
 
